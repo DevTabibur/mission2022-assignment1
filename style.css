@@ -87,7 +87,7 @@ img:hover{
 /* About My Mission */
 .about {
     padding: 100px 0;
-    background-image: url(/images/shapes/shape-7.png);
+    background-image: url(./images/shapes/shape-7.png);
     background-repeat: no-repeat;
     background-size: 300px 300px;
     background-position: right top;  
@@ -140,7 +140,7 @@ img:hover{
 /* Develop Area */
 .develop-area{
     padding: 60px 0;
-    background-image: url(/images/shapes/shape-6.png);
+    background-image: url(./images/shapes/shape-6.png);
     background-repeat: no-repeat;
     background-size: 400px 400px;
     background-position: right bottom;
@@ -172,7 +172,7 @@ img:hover{
 /* Community Area */
 .community{
     padding: 60px 0;
-    background-image: url(/images/shapes/shape-5.png);
+    background-image: url(./images/shapes/shape-5.png);
     background-repeat: no-repeat;
     background-size: 400px 400px;
     background-position: left bottom;
